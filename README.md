@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @codingcurtis42
-- 👀 I’m interested in programming, python, and gaming.
-- 🌱 I’m currently learning pygame. And may start learning javascript, C#, Godot.
-- 💞️ I’m looking to collaborate on anything pythonic. 
-- 📫 How to reach me https://linktr.ee/codingcurtis42
+- 👋 Hi, I’m Matthew from Alder Automation
+- 👀 I’m interested in programming, python, c++, game dev, and gaming.
+- 🌱 I’m currently learning c++ and SLD
+- 📫 How to reach me mheltman@alderautomation.ca
 
 <!---
 codingcurtis42/codingcurtis42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
