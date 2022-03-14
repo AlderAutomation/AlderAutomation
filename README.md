@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew from Alder Automation
 - 👀 I’m interested in programming, python, c++, game dev, and gaming.
-- 🌱 I’m currently learning c++ and SLD
+- 🌱 I’m currently learning PyQt5
 - 📫 How to reach me mheltman@alderautomation.ca
 
 <!---
